@@ -1,0 +1,7 @@
+D:\18.11.2269\Project\LatihanAsosiasi\LatihanAsosiasi\bin\Debug\LatihanAsosiasi.exe.config
+D:\18.11.2269\Project\LatihanAsosiasi\LatihanAsosiasi\bin\Debug\LatihanAsosiasi.exe
+D:\18.11.2269\Project\LatihanAsosiasi\LatihanAsosiasi\bin\Debug\LatihanAsosiasi.pdb
+D:\18.11.2269\Project\LatihanAsosiasi\LatihanAsosiasi\obj\Debug\LatihanAsosiasi.csprojAssemblyReference.cache
+D:\18.11.2269\Project\LatihanAsosiasi\LatihanAsosiasi\obj\Debug\LatihanAsosiasi.csproj.CoreCompileInputs.cache
+D:\18.11.2269\Project\LatihanAsosiasi\LatihanAsosiasi\obj\Debug\LatihanAsosiasi.exe
+D:\18.11.2269\Project\LatihanAsosiasi\LatihanAsosiasi\obj\Debug\LatihanAsosiasi.pdb
